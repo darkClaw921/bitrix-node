@@ -1,5 +1,5 @@
 {
-  "name": "n8n-nodes-bitrix24",
+  "name": "n8n-nodes-bitrix24-test",
   "version": "0.10.1",
   "description": "n8n node для работы с Bitrix24 API",
   "keywords": [
@@ -9,7 +9,7 @@
     "crm"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/darkClaw921/n8n-nodes-bitrix24.git",
+  "homepage": "https://github.com/darkClaw921/bitrix-node.git",
   "author": {
     "name": "Igor Gerasimov",
     "email": "gerasimov.igor.98@yandex.ru",
@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/darkClaw921/n8n-nodes-bitrix24.git"
+    "url": "git+https://github.com/darkClaw921/bitrix-node.git"
   },
   "main": "index.js",
   "types": "dist/index.d.ts",
