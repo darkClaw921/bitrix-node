@@ -1,0 +1,14 @@
+.git
+.github
+.idea
+.vscode
+.DS_Store
+.eslintrc.js
+.prettierrc.js
+node_modules
+src
+test
+*.ts
+!*.d.ts
+tsconfig.json
+tslint.json 
